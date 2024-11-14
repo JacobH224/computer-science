@@ -52,3 +52,12 @@ while userInputTwo > 0:
     print (userInputTwo)
     userInputTwo -= 1
 print (userInputTwo)
+
+##While loop exercise 5
+
+start = 0
+number = int(input("Enter a number: "))
+while start < number:
+    print (start)
+    start += 1
+print (start)
